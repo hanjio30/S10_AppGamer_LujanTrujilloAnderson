@@ -122,6 +122,19 @@ El proyecto incluye:
 - **Validación Robusta**: Validación de email, contraseñas, etc.
 - **UX Optimizada**: Transiciones suaves y feedback visual
 
+## Capturas del Aplicativo
+![image](https://github.com/user-attachments/assets/d324a0fd-674b-44d8-947f-30648b223776)
+![image](https://github.com/user-attachments/assets/16dd9741-2f85-4355-9720-1f1d86512bef)
+![image](https://github.com/user-attachments/assets/97364937-3c28-4336-bb8d-079f55530335)
+![image](https://github.com/user-attachments/assets/7397ceb4-1720-41e2-8441-50bc921a5595)
+![image](https://github.com/user-attachments/assets/d711c012-3201-4868-92b7-60fe08f2fb82)
+
+## Programa Firebase
+![image](https://github.com/user-attachments/assets/7d37bc8f-746a-4b06-b87a-70112dae9330)
+![image](https://github.com/user-attachments/assets/ebd66368-707c-4107-8e80-36755a618207)
+![image](https://github.com/user-attachments/assets/8777cb10-4604-4b96-9861-b3bd026108ea)
+![image](https://github.com/user-attachments/assets/94a8b4b0-0bf3-463a-b2e6-7247d6f348ba)
+
 ---
 
 *Este proyecto demuestra la implementación completa de un sistema de autenticación moderno con Firebase, diseñado específicamente para aplicaciones gaming con una experiencia de usuario excepcional. Implementada por el estudiante: Lujan Trujillo Anderson Junior*
