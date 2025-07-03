@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289311381763",
+    "project_id": "zonagamerapp",
+    "storage_bucket": "zonagamerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289311381763:android:a2c5075a0471bb8af0b136",
+        "android_client_info": {
+          "package_name": "com.example.app_s10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPKSL1bWuEGrm-Rbw59pzImE8C44YHiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
